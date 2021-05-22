@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/java/dao/RepositorioGenerico.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/java/exception/ElementoJaExisteException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/java/exception/ElementoNaoExisteException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/impl/FileUtilRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/impl/exception/ElementAlreadyExistsException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/dao/impl/exception/ElementDoesNotExistException.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
